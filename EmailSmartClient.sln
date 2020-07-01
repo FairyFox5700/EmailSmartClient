@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSmartClient.Entities", "EmailSmartClient.Entities\EmailSmartClient.Entities.csproj", "{1C167731-5AB2-433A-A846-A3820820B2E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSmartClient.Web", "EmailSmartClient.Web\EmailSmartClient.Web.csproj", "{5EB61243-275C-41CC-9FD7-719406345C92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSmartClient.BAL.Implementation", "EmailSmartClient.BAL.Implementation\EmailSmartClient.BAL.Implementation.csproj", "{33937770-F5FE-4242-8A9E-9E4F4E5A5EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSmartClient.BAL", "EmailSmartClient.BAL\EmailSmartClient.BAL.csproj", "{AB788D12-8A10-48FD-B8B0-E478E7D053AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSmartClient.Common", "EmailSmartClient.Common\EmailSmartClient.Common.csproj", "{619A882F-4DFB-4B56-B3DE-2E40FAC47F76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailSmartClient.Models", "EmailSmartClient.Models\EmailSmartClient.Models.csproj", "{1788E494-B73F-409A-BF9C-9C08BF723D6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C167731-5AB2-433A-A846-A3820820B2E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C167731-5AB2-433A-A846-A3820820B2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C167731-5AB2-433A-A846-A3820820B2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C167731-5AB2-433A-A846-A3820820B2E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EB61243-275C-41CC-9FD7-719406345C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EB61243-275C-41CC-9FD7-719406345C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EB61243-275C-41CC-9FD7-719406345C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EB61243-275C-41CC-9FD7-719406345C92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33937770-F5FE-4242-8A9E-9E4F4E5A5EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33937770-F5FE-4242-8A9E-9E4F4E5A5EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33937770-F5FE-4242-8A9E-9E4F4E5A5EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33937770-F5FE-4242-8A9E-9E4F4E5A5EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB788D12-8A10-48FD-B8B0-E478E7D053AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB788D12-8A10-48FD-B8B0-E478E7D053AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB788D12-8A10-48FD-B8B0-E478E7D053AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB788D12-8A10-48FD-B8B0-E478E7D053AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{619A882F-4DFB-4B56-B3DE-2E40FAC47F76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{619A882F-4DFB-4B56-B3DE-2E40FAC47F76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{619A882F-4DFB-4B56-B3DE-2E40FAC47F76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{619A882F-4DFB-4B56-B3DE-2E40FAC47F76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1788E494-B73F-409A-BF9C-9C08BF723D6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1788E494-B73F-409A-BF9C-9C08BF723D6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1788E494-B73F-409A-BF9C-9C08BF723D6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1788E494-B73F-409A-BF9C-9C08BF723D6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

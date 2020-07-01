@@ -1,0 +1,9 @@
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL\bin\Debug\netcoreapp3.1\EmailSmartClient.BAL.deps.json
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL\bin\Debug\netcoreapp3.1\EmailSmartClient.BAL.dll
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL\bin\Debug\netcoreapp3.1\EmailSmartClient.BAL.pdb
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL\obj\Debug\netcoreapp3.1\EmailSmartClient.BAL.csprojAssemblyReference.cache
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL\obj\Debug\netcoreapp3.1\EmailSmartClient.BAL.csproj.CoreCompileInputs.cache
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL\obj\Debug\netcoreapp3.1\EmailSmartClient.BAL.AssemblyInfoInputs.cache
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL\obj\Debug\netcoreapp3.1\EmailSmartClient.BAL.AssemblyInfo.cs
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL\obj\Debug\netcoreapp3.1\EmailSmartClient.BAL.dll
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL\obj\Debug\netcoreapp3.1\EmailSmartClient.BAL.pdb

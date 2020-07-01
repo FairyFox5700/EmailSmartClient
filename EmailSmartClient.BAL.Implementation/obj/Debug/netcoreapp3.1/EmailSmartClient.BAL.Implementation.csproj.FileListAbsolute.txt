@@ -1,0 +1,16 @@
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\obj\Debug\netcoreapp3.1\EmailSmartClient.BAL.Implementation.csprojAssemblyReference.cache
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\obj\Debug\netcoreapp3.1\EmailSmartClient.BAL.Implementation.csproj.CoreCompileInputs.cache
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\obj\Debug\netcoreapp3.1\EmailSmartClient.BAL.Implementation.AssemblyInfoInputs.cache
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\obj\Debug\netcoreapp3.1\EmailSmartClient.BAL.Implementation.AssemblyInfo.cs
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\bin\Debug\netcoreapp3.1\EmailSmartClient.BAL.Implementation.deps.json
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\bin\Debug\netcoreapp3.1\EmailSmartClient.BAL.Implementation.dll
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\bin\Debug\netcoreapp3.1\EmailSmartClient.BAL.Implementation.pdb
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\bin\Debug\netcoreapp3.1\EmailSmartClient.BAL.dll
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\bin\Debug\netcoreapp3.1\EmailSmartClient.Common.dll
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\bin\Debug\netcoreapp3.1\EmailSmartClient.BAL.pdb
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\bin\Debug\netcoreapp3.1\EmailSmartClient.Common.pdb
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\obj\Debug\netcoreapp3.1\EmailSmartClient.BAL.Implementation.csproj.CopyComplete
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\obj\Debug\netcoreapp3.1\EmailSmartClient.BAL.Implementation.dll
+D:\Предмети\MyProject\EmailSmartClient\EmailSmartClient\EmailSmartClient.BAL.Implementation\obj\Debug\netcoreapp3.1\EmailSmartClient.BAL.Implementation.pdb
